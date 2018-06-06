@@ -1,0 +1,54 @@
+#green{
+  background-color: #40A483;
+  width: 80%;
+  height:50px;
+  float: left;
+}
+#blue{
+  background-color: #638CCA;
+  width: 20%;
+  height: 50px;
+  float: left;
+}
+#red{
+  background-color: #d30606;
+  width: 33.33%;
+  height:140px;
+  float: left;
+}
+#orange{
+  background-color: #f98535;
+  width: 33.33%;
+  height: 70px;
+  float: left;
+}
+#bluediv{
+  background-color: #aaafb0;
+  width: 33.33%;
+  height: 70px;
+  float: left;
+}
+#wellow{
+  background-color: #eab607;
+  width: 22.22%;
+  height: 70px;
+  float: left;
+}
+#bleuclair{
+  background-color: #07eab0;
+  width: 22.22%;
+  height: 70px;
+  float: left;
+}
+#orangediv{
+  background-color: #f56603;
+  width: 22.22%;
+  height: 70px;
+  float: left;
+}
+#bleunuit{
+  background-color: #0b0c38;
+  width: 100%;
+  height: 170px;
+  float: left;
+}
